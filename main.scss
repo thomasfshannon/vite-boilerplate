@@ -1,0 +1,11 @@
+$primary: rgb(0, 179, 255);
+
+.card {
+  button {
+    background: $primary;
+    border: none;
+    border-radius: 3px;
+    padding: 20px;
+    color: #fff;
+  }
+}
