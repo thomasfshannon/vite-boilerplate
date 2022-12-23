@@ -11,3 +11,7 @@ npm install
 ## To build
 
 ```npm run build```
+
+Vite
+
+https://tailwindcss.com/docs/guides/vite
